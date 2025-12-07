@@ -40,8 +40,8 @@ src/
 ├── Mine.png
 └── Flag.png
 
-yaml
-Kodu kopyala
+
+
 
 ---
 
