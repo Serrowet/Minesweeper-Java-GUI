@@ -54,7 +54,7 @@ Open the project in IntelliJ IDEA or any Java IDE.
 
 Run:
 
-Kodu kopyala
+
 Minesweeper.java
 📌 Future Improvements
 Difficulty levels (Easy / Medium / Hard)
